@@ -27,6 +27,8 @@ hugo new site xxxx
 ```
 hugo new "xxx.md"
 ```
+#### 設定 config 檔
+可參考下載得住提的說明（通常會有example site）
 #### build
 ```
 hugo
