@@ -1,7 +1,7 @@
 ##########################################
 # 站點配置
 
-baseURL = "https://example.com/"
+baseURL = "http://tsuhsin.github.io/"
 title = "tsuhsin"
 languageCode = "zh-TW"
 hasCJKLanguage = true
@@ -22,7 +22,7 @@ defaultContentLanguageInSubdir = false
 pluralizeListTitles = false
 
 # 摘要的字數限制
-summaryLength = 42
+summaryLength = 30
 
 # 是否開啟 GitHub 風格的 Emoji 書寫方式
 enableEmoji = false
@@ -94,7 +94,7 @@ uglyURLs = false
     # 名字
     name = "tsuhsin"
     # 郵箱
-    email = "reuixiy@gmail.com"
+    email = "tsuhsin860509@gmail.com"
     # 座右銘或簡介
     motto = "better than yesterday"
     # 頭像
@@ -332,7 +332,7 @@ uglyURLs = false
     #      Open Graph、Atom、RSS
 
     # 站點的創建時間
-    siteCreatedTime = "1997-05-09T20:17:43+00:00"
+    siteCreatedTime = "2019-07-02T20:17:43+00:00"
     # 注意：請保持此格式，更改數字
 
     # 站點的推特帳號
@@ -401,7 +401,7 @@ uglyURLs = false
     # 列表頁面
 
     # 寬度
-    listWidth = 36
+    listWidth = 42
     # 說明：如果留空（""），則用 42 作為默認值
     #      單位：em
 
@@ -584,12 +584,12 @@ uglyURLs = false
     # 說明：僅在生產環境（production）下渲染
 
     # 是否開啟（全局設置）
-    enableComments = false
+    enableComments = true
     # 說明：文章的 Front Matter 中的 `comments`
     #      的優先級高於此處
 
     ## Disqus
-    enableDisqus = false
+    enableDisqus = true
     disqusShortname = ""
 
     ## Valine
@@ -665,13 +665,13 @@ uglyURLs = false
     duration = 0.3
 
     # 淺色模式的主色
-    primaryColorLight = "220, 90%, 56%"
+    primaryColorLight = "167, 94%, 36%"
     # 深色模式的主色
-    primaryColorDark = "201, 65%, 62%"
+    primaryColorDark = "153, 73%, 88%"
     # 注意：只支持 HSL 顏色值
 
     # 文章的內容寬度
-    postWidth = 36
+    postWidth = 42
     # 說明：如果留空（""），則用 42 作為默認值
     #      單位：em
 
@@ -712,7 +712,7 @@ uglyURLs = false
     publishedDateIcon = "calendar-alt"
 
     # 是否顯示修改時間
-    displayModifiedDate = true
+    displayModifiedDate = false
     # 修改時間的圖標
     modifiedDateIcon = "calendar-check"
 
@@ -729,7 +729,7 @@ uglyURLs = false
     categoryDelimiter = "/"
 
     # 是否顯示字數統計
-    displayWordCount = true
+    displayWordCount = false
     # 字數統計的圖標
     wordCountIcon = "pencil-alt"
 
@@ -1010,7 +1010,7 @@ uglyURLs = false
     # 文章更新徽章
 
     # 是否開啟
-    enablePostUpdatedBadge = true
+    enablePostUpdatedBadge = false
 
     # 是否顯示（全局設置）
     displayUpdatedBadge = true
@@ -1068,7 +1068,7 @@ uglyURLs = false
     # 文章分享
 
     # 是否開啟
-    enablePostShare = true
+    enablePostShare = false
 
     # 是否顯示（全局設置）
     displayPostShare = true
@@ -1188,7 +1188,7 @@ uglyURLs = false
     # 年份與作者之間的圖標，留空（""）則無
     iconBetweenYearAndAuthor = "heart"
     # 圖標顏色
-    iconColor = "#f06292"
+    iconColor = "#c1a1d3"
     # 是否開啟圖標的跳動效果
     iconAnimation = true
 
