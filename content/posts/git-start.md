@@ -1,7 +1,7 @@
 ---
 title: "Git 本地端 push 到遠端 (Github)"
 date: 2021-02-02T18:00:00+08:00
-draft: true
+draft: false
 tags: ["git", "github"]
 ---
 ### 前置作業
