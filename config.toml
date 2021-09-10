@@ -1124,7 +1124,7 @@ uglyURLs = false
     shareOnWeibo = false
     shareOnDouban = false
     shareOnQQ = false
-    shareOnQzone = falseq
+    shareOnQzone = false
 
     shareViaQRCode = true
 
