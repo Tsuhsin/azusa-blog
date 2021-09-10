@@ -34,3 +34,8 @@ hugo
 ```
 hugo server
 ```
+## 更新 MemE主題
+
+```sh
+~/blog $ git submodule update --rebase --remote
+```
