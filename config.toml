@@ -705,10 +705,10 @@ uglyURLs = false
     duration = 0.5
 
     # 淺色模式的主色
-    primaryColorLight = "220, 90%, 56%"
+    primaryColorLight = "167, 94%, 36%"
     # 深色模式的主色
-    primaryColorDark = "201, 65%, 62%"
-    # 注意：只支援 HSL 顏色值
+    primaryColorDark = "153, 73%, 88%"
+    # 注意：只支持 HSL 顏色值
 
     # 文章的內容寬度
     postWidth = 36
@@ -1050,7 +1050,7 @@ uglyURLs = false
     # 文章更新徽章
 
     # 是否開啟
-    enablePostUpdatedBadge = true
+    enablePostUpdatedBadge = false
 
     # 是否顯示（全域性設定）
     displayUpdatedBadge = true
@@ -1121,10 +1121,10 @@ uglyURLs = false
     shareOnFacebook = true
     shareOnLinkedIn = true
     shareOnTelegram = true
-    shareOnWeibo = true
-    shareOnDouban = true
-    shareOnQQ = true
-    shareOnQzone = true
+    shareOnWeibo = false
+    shareOnDouban = false
+    shareOnQQ = false
+    shareOnQzone = falseq
 
     shareViaQRCode = true
 
