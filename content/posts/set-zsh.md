@@ -2,6 +2,7 @@
 title: "設定 command line 為 Z-shell 環境 "
 date: 2019-08-30T00:06:11+08:00
 draft: false
+tags: ["zsh", "command line"]
 ---
 ## 安裝z-shell
 如果沒有brew的話要先安裝 `brew`
